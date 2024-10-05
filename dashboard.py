@@ -16,7 +16,7 @@ st.title('Analisis Data Musiman dan Bulanan Penyewaan Sepeda: Tren dan Faktor Pe
 st.write('''
     Selamat datang di **"Analisis Data Musiman dan Bulanan Penyewaan Sepeda: Tren dan Faktor Penentu"**. 
     Pada web ini, kami menyajikan analisis mendalam mengenai pola penggunaan sepeda berdasarkan musim dan bulan, serta mengeksplorasi faktor-faktor yang mempengaruhi tren tersebut. 
-    Dengan memanfaatkan data historis, kami akan menjawab dua pertanyaan utama: pada musim apa jumlah penyewaan sepeda paling tinggi, dan bulan apa yang mencatatkan puncak penggunaan sepeda serta faktor-faktor apa yang berperan.
+    Dengan memanfaatkan data historis, saya akan menjawab dua pertanyaan utama : Pada musim apa jumlah penyewa sepeda paling banyak? dan Pada bulan apa jumlah penyewa sepeda paling banyak dan apa faktor penyebabnya?
 ''')
 
 pilih_pertanyaan = st.selectbox(
