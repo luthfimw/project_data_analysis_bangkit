@@ -11,42 +11,43 @@ Email: lmahendraw@gmail.com
 ## Pertanyaan Bisnis 🙋🏻‍♂️
 Analisis ini fokus pada beberapa pertanyaan bisnis utama:
 
-Pada musim apa jumlah pengguna sepeda paling banyak?
+- Pada musim apa jumlah pengguna sepeda paling banyak?
 
-Pada bulan apa jumlah pengguna sepeda paling banyak, dan apa faktor penyebabnya?
+- Pada bulan apa jumlah pengguna sepeda paling banyak, dan apa faktor penyebabnya?
 
 ## Tools dan Library yang Digunakan ⚙️
-Python
+- Python
 
-Streamlit
+- Streamlit
 
-Pandas
+- Pandas
 
-Seaborn
+- Seaborn
 
-Matplotlib
+- Matplotlib
 
 ## Struktur Notebook 🚧
-### Pendahuluan
+### 1.Pendahuluan
 Menjelaskan tujuan proyek dan pertanyaan bisnis yang akan dijawab.
-### Import Packages
+
+### 2. Import Packages
 Mengimpor semua library yang diperlukan, termasuk:
 
-pandas untuk manipulasi data
+- pandas untuk manipulasi data
 
-seaborn dan matplotlib untuk visualisasi
+- seaborn dan matplotlib untuk visualisasi
 
 streamlit untuk antarmuka aplikasi web
-### Pembersihan Data
+### 3. Pembersihan Data
 Melakukan pembersihan data untuk menghilangkan data yang tidak relevan dan menangani data yang hilang.
 
-### Eksplorasi Data
+### 4. Eksplorasi Data
 Melakukan eksplorasi data untuk mendapatkan insight awal mengenai pola-pola dalam dataset.
 
-### Visualisasi Data
+### 5. Visualisasi Data
 Menggunakan grafik untuk memvisualisasikan hasil analisis data, termasuk grafik batang dan heatmap untuk menunjukkan tren penggunaan sepeda.
 
-### Eksplorasi dan Penjelasan Hasil
+### 6. Eksplorasi dan Penjelasan Hasil
 Menjelaskan hasil eksplorasi data yang telah divisualisasikan untuk menjawab pertanyaan bisnis.
 
 ## Setup Environment - Anaconda 🐍
