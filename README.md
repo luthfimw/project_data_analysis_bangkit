@@ -27,7 +27,7 @@ Analisis ini fokus pada beberapa pertanyaan bisnis utama:
 - Matplotlib
 
 ## Struktur Notebook 🚧
-### 1.Pendahuluan
+### 1. Pendahuluan
 Menjelaskan tujuan proyek dan pertanyaan bisnis yang akan dijawab.
 
 ### 2. Import Packages
@@ -37,7 +37,7 @@ Mengimpor semua library yang diperlukan, termasuk:
 
 - seaborn dan matplotlib untuk visualisasi
 
-streamlit untuk antarmuka aplikasi web
+- streamlit untuk antarmuka aplikasi web
 ### 3. Pembersihan Data
 Melakukan pembersihan data untuk menghilangkan data yang tidak relevan dan menangani data yang hilang.
 
@@ -73,7 +73,9 @@ streamlit run dashboard.py
 
 ## Hasil analisis 💁🏻‍♂️
 - Conclution pertanyaan 1
+  
 Jumlah penyewa sepeda meningkat drastis dari musim semi hingga musim panas, dan menurun ketika memasukki musim dingin. Hal ini menunjukkan bahwa masyarakat cenderung ingin bersepeda pada saat memasukki musim semi hingga musim panas. Sedangkan ketika musim dingin, sedikit masyarakat yang ingin menyewa sepeda. Hal ini juga menunjukkan bahwa faktor cuaca sangat berpengaruh terhadap minat masyarakat dalam menggunakan sepeda
 
 - Conclution pertanyaan 2
+  
 Jumlah penyewa sepeda paling banyak pada rentang bulan Mei hingga Oktober, terutama pada bulan Agustus. Hal ini dipengaruhi oleh faktor cuaca pada bulan tersebut. Masyarakat cenderung ingin menyewa sepeda pada saat memasukki musim semi hingga berakhirnya musim panas, pada bulan April hingga Oktober. Masyarakat cenderung menghindari menyewa sepeda pada masa peralihan dari musim panas ke musim dingin hingga berakhirnya musim dingin, dari bulan November hingga bulan Maret.
